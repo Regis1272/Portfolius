@@ -7,6 +7,8 @@ categories:
 published: true
 ---
 
+## Table of Contents
+
 # Test Post, Don't Ignore
 Hey, y'all, am learning svelte + parsing markdown IN svelte!
 

@@ -14,3 +14,5 @@ Hey, y'all, am learning svelte + parsing markdown IN svelte!
 const t = "this is a codeblock"
     const s = "with an indentation"
 ```
+
+![Svelte](favicon.png)

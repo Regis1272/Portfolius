@@ -54,6 +54,6 @@ For me, the most difficult thing has been recognizing the best time to hop off t
 
 I could expand on the tradeoffs between all the tools and concepts I became obsessed with, but that isn't what I'm trying to do here. Above all, I just want to say: find a thing and get good at that one thing. Show it off. What are your strengths? Being honest with yourself, what *could be* your strengths? 
 
-If there isn't just one thing, find a set of explicitly interrelated things. And find someone to give you feedback. Be it someone you admire on GitHub, a friend, or a fellow discord kitten.
+If there isn't just one thing, find a set of explicitly interrelated things. And find someone to give you feedback. Be it someone you admire on GitHub, a friend, or a fellow discord kitten. Guidance, when it comes from a genuine conversation, is invaluable.
 
 Have long-term goals, *embrace* where you are in your journey *right now*. Get comfortable with it. Your life won't start when you acquire some lofty, often obscure set of skills. You can enjoy it, even if you feel like you have to get somewhere *fast*. It's all part of the adventure. And, it's okay to have lofty goals, so long as you don't set lofty expectations of yourself.

@@ -1,6 +1,6 @@
 ---
 title: Hardstuck in Tutorial Hell
-description: This piece was cathartic for me. Sure, I offer up more platitudes here, but hey.
+description: A catharsis of frustrations built up over a year of getting back into programming.
 date: '2023-10-20'
 categories:
     - online learning
@@ -8,6 +8,10 @@ categories:
     - career
 published: true
 ---
+
+### Table of Contents
+
+### Knowledge Isn't Always Power
 
 For the last year of my personal narrative, I’ve been on an "accelerated learning journey."
 
@@ -27,7 +31,7 @@ Yeah. All this, and when it comes down to it… In this climate, I still feel un
 
 Essentially, I've got a toe-in-the-water of everything the internet throws at me. Gotta deal with these tutorial-burns somehow.
 
-### The Effectiveness of My Method
+### How Effective Is This Method?
 As you may have guessed: I am going crazy. Needlessly? Maybe – Probably… Yes. I do not *need* to know everything everywhere all at once.
 
 To my surprise (not really—I know I'm making terrible decisions here—BUT, I CAN'T STOP), I found that this method of mine wasn't the “best” way to learn.

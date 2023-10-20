@@ -3,7 +3,7 @@
 </script>
 
 <footer>
-    <p>{config.title} &copy {new Date().getFullYear()}</p>
+    <p><a href="https://github.com/isCordial">{config.title}</a> &copy {new Date().getFullYear()}</p>
 </footer>
 
 <style>

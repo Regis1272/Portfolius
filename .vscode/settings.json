@@ -13,4 +13,4 @@
     "cssvar.extensions": [
       "css", "postcss", "jsx", "tsx"
     ]
-  }
+}

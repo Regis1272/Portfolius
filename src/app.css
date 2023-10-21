@@ -161,4 +161,5 @@ li {
 
 a {
 	text-decoration: underline;
+	color: var(--brand);
 }
